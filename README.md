@@ -38,9 +38,9 @@ The planned end result is to have an appliance that zeroes any drives inserted i
 
 #Notes for myself
 
-Flowchart
+Flowchart:
 
-Appliance boots
+* Appliance boots
 
 chronjob in background constantly searching for newly attached devices
 
