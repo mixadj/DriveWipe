@@ -42,23 +42,21 @@ Flowchart:
 
 * Appliance boots
 
-chronjob in background constantly searching for newly attached devices
+* chronjob in background constantly searching for newly attached devices
 
-mount new devices
+* mount new devices
 
-enable SMART stratus on device
+* enable SMART stratus on device
 
-use nwipe to perform 3 pass 0, 1, random wiped on drive
+* use nwipe to perform 3 pass 0, 1, random wiped on drive
 
-run smart test on device with smartmontools
+* run smart test on device with smartmontools
 
-email user with drive SN, bay location, smart status and associated logs for the drive. Maybe also flash the light on the drive bay for easy locating.
+* email user with drive SN, bay location, smart status and associated logs for the drive. Maybe also flash the light on the drive bay for easy locating.
 
-user removes drive and inserts a new drive
+* chronjob picks up new device
 
-chronjob picks up new device
-
-rinse and repeat
+* rinse and repeat
 
 
 
