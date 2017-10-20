@@ -1,6 +1,6 @@
 # DriveWipe
 
-This script for securely erasing disks was written with the intent of conforming to the standards written in the University of North Carolina at Charlotte guideline for hardware and media disposal. This can be found at the following link: http://itservices.uncc.edu/iso/guideline-hardware-and-media-disposal
+The script for securely erasing disks was written with the intent of conforming to the standards written in the University of North Carolina at Charlotte guideline for hardware and media disposal. This can be found at the following link: http://itservices.uncc.edu/iso/guideline-hardware-and-media-disposal
 
 I am writing this script to create a CLI for erasing drives to the UNC Charlotte disposal standards and to automate or semi-automate the process. Looking at the UNC Chapel Hill disposal requirements it seems like this would satisfy most other UNC system institution disposal requirements. In reality this whole thing is just a nice front end for some DD commands with some options added but hey, its all about automation.
 
